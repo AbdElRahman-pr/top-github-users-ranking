@@ -28,6 +28,21 @@ There are `973 users`  in Jordan. You need at least `9 followers` to be on this 
 			<a href="https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/total_contributions/jordan.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
+			<a href="[https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/jordan.md](https://github.com/AbdElRahman-pr)">Top Users By Followers</a>
+		</td>
+	</tr>
+</table>
+
+
+<table>
+	<tr>
+		<td>
+			<strong>Top Users By Public Contributions</strong>
+		</td>
+		<td>
+			<a href="https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/total_contributions/jordan.md">Top Users By Total Contributions</a>
+		</td>
+		<td>
 			<a href="https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/jordan.md">Top Users By Followers</a>
 		</td>
 	</tr>
